@@ -23,6 +23,10 @@ function Navbar() {
             src={companyLogo}
             alt="CV. Senia Mandiri Jaya"
           />
+          <span className="navbar-brand-copy">
+            <span className="brand-name">CV. SENIA MANDIRI JAYA</span>
+            <span className="brand-caption">· GOSAVE</span>
+          </span>
         </a>
 
         <button
