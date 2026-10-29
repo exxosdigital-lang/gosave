@@ -7,7 +7,7 @@ function Hero() {
       <div className="page-container hero-layout">
         <div className="hero-copy">
           <span className="eyebrow">CV. Senia Mandiri Jaya · GOSAVE</span>
-          <h1>Perlengkapan Safety untuk Kerja yang Lebih Aman</h1>
+          <h1>Safety Equipment untuk Kerja yang Lebih Aman</h1>
           <p className="hero-description">
             Solusi kebutuhan safety equipment dan industrial products untuk
             proyek, konstruksi, manufaktur, workshop, dan aktivitas teknis.
